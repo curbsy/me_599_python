@@ -3,4 +3,4 @@ Author: Makenzie Brian
 
 Winter 2018
 
-Code for ME 599 Python course at Oregon State University
+Code for ME 599 Python course at Oregon State University at Oregon State University.
